@@ -1,0 +1,14 @@
+/* Header */
+
+.header{
+  background-color: rgb(7, 71, 107);
+  width: 1440px;
+  text-align: center;
+  height: 100px;
+}
+.header h1{
+  font-family:'montserrat';
+  color: white;
+  font-size: 40px;
+  padding-top: 20px;
+}
