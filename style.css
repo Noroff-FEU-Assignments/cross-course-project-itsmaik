@@ -12,3 +12,18 @@
   font-size: 40px;
   padding-top: 20px;
 }
+.text {
+  width: 1440px;
+}
+
+.text h2{
+  color: rgb(7, 71, 107);
+  width: 1440px;
+  text-align: center;
+  font-family: 'montserrat';
+  font-weight: 600;
+}
+.text h3, p{
+  margin-left: 200px;
+  font-family: 'poppins';
+}
