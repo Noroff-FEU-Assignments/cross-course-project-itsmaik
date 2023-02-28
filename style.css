@@ -13,17 +13,30 @@
   padding-top: 20px;
 }
 .text {
+  padding-top: 25px;
+  margin-top: 25px;
   width: 1440px;
-}
+  height: 800px;
+  background: linear-gradient(360deg, #fffefe 0%, rgba(7,  71, 107, 0.56) 100%);
+  }
 
-.text h2{
+ h2{
   color: rgb(7, 71, 107);
   width: 1440px;
   text-align: center;
   font-family: 'montserrat';
   font-weight: 600;
 }
-.text h3, p{
+.text h3, p {
+  margin-top: 25px;
   margin-left: 200px;
   font-family: 'poppins';
+}
+body {
+  padding-left: 230px;
+}
+.text li {
+  margin-left: 200px;
+  font-family: 'poppins';
+
 }
