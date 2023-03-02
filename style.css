@@ -18,6 +18,8 @@
   width: 1440px;
   height: 800px;
   background: linear-gradient(360deg, #fffefe 0%, rgba(7,  71, 107, 0.56) 100%);
+  padding-right: 230px;
+  box-sizing: border-box;
   }
 
  h2{
@@ -34,9 +36,4 @@
 }
 body {
   padding-left: 230px;
-}
-.text li {
-  margin-left: 200px;
-  font-family: 'poppins';
-
-}
+  }
